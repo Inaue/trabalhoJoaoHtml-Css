@@ -1,0 +1,21 @@
+.col_1, .col_2, .col_4, .col_5{
+
+    float: left;
+    padding: 0 1% 0 1%;
+}
+
+.col_1{
+    width: 18%;
+}
+
+.col_2{
+    width: 38%;
+}
+
+.col_4{
+    width: 78%;
+}
+
+.col_5{
+    width: 98%;
+}
